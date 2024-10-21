@@ -7,7 +7,7 @@ on:
       - master
 permissions: write-all
 jobs:
-  contributors:
+  contributors: Jeranimo25
     runs-on: ubuntu-latest
     steps:
       - uses: wow-actions/contributors-list@v1
